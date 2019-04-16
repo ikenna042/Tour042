@@ -1,0 +1,319 @@
+<resources>
+    <string name="app_name">Tour 042</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_about">About 042</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_churches">Churches</string>
+    <string name="category_malls">Malls</string>
+
+    //Hotels
+    <string name="about_heading">About 042 (Enugu)</string>
+    <string name="about_body">Enugu popularly known as 042 is the capital of Enugu State in Nigeria. It is located in
+        southeastern Nigeria. The city had a population of 722,664 according to the 2006 Nigerian
+        census. The name Enugu is derived from the two Igbo words Énú Ụ́gwụ́ meaning "hill top"
+        denoting the hilly geography of the city. The city was named after Enugwu Ngwo, under which
+        coal was found.
+        In 1900 the Southern Nigeria Protectorate was established by the colonial administration
+        of the British Empire. The discovery of coal by the colonialists led to the building of
+        the Eastern Line railway to carry coal from the inland city to the port of Port Harcourt,
+        a city created for this purpose located 151 miles (243 km) south[11] of what was called
+        Enugu Coal Camp. Enugu was then renamed simply Enugu and developed as one of the few cities
+        in West Africa created from European contact. By 1958 Enugu had over 8,000 coal miners.
+        As of 2005 there are no significant coal mining activities left in the city.
+
+Enugu became the capital of the Eastern Region after Nigeria's independence in 1960; a succession
+        of territorial adjustments in 1967, 1976 and 1991 led to Enugu becoming the capital of what
+        is now Enugu State. On 30 May 1967 Enugu was declared the capital of the short-lived
+        Republic of Biafra; for this Enugu is known as the "capital of Igboland."
+
+ The main educational establishment in the city is the Enugu campus of the University of Nigeria
+        based in Nsukka, a town north of Enugu and in the same state
+    Enugu city covers three local government areas: Enugu East, Enugu North and Enugu South</string>
+
+    <string name="hotel_golden_title">Golden Royal</string>
+    <string name="hotel_golden_info">Golden Royale Hotel has a sound management team with
+        professionalism and a spirit of innovation when it comes to meeting and exceeding customer
+        expectations. This hotel is located at 10 Bissala Road, Independence Layout, Enugu, Nigeria.
+With 88 exquisitely furnished rooms and suite on 3 floors, Golden Royale provides the solution to
+        all your accommodation and conference requirements.  These rooms are categorised into
+        Classic, Royal Suites and the Penthouse. Each room is furnished and equipped with
+        air-conditioning units, framed paintings, satellite connected flat screen TV, refrigerator,
+        telephone, bedside lamp and an en-suite bathroom that feature a power shower. Complimentary
+        breakfast is served daily.
+Golden Royale has a couple of facilities put in place for its guests. These facilities include bars
+        and restaurant offering Mediterranean and local cuisine, WI-FI internet facility, fully
+        equipped gym, a sauna where guests can enjoy a steam bath with an outdoor adult and
+        children swimming pool; the conference centre has ultra-modern state-of-the-art facilities.
+        This hotel boasts 24hrs police patrol and in-house security presence as well as CCTV cameras.
+Additional services rendered by the hotel include 24hrs room service, airport shuttle, car hire,
+        laundry/dry cleaning and business services.For more information and reservation visit
+        https://www.goldenroyalehotels.com
+    </string>
+    
+    <string name="hotel_cordial_title">Cordial Hotel</string>
+    <string name="hotel_cordial_info">Constructed in a stylish fashion and equipped with modern
+        facilities, Hotel Codial is a boutique hotel located at 151 Chime Avenue, New Haven,
+        Enugu, Nigeria. It is in the low-density area of New Haven, Enugu State.
+The fenced hotel premises has well-furnished rooms that are of varying categories. These categories
+        are Super Single, Super Double, Executive Single and Executive Double Rooms. Each room is
+        designated as non-smoking areas and feature full air-conditioning, a king-sized bed, cable
+        enabled flat screen TV, safety deposit box and an en-suite bathroom.
+Hotel Codial boasts facilities such as free Wi-Fi, swimming pool, a fitness centre/gym, 24 hours
+        facilities, free adequate parking space, 24 hours front desk service, a restaurant that
+        serves from a wide list of local, Chinese and other continental cuisines, and a
+        cocktail/public/open sky bar where guests can get access to assorted snacks and a variety
+        of both alcoholic and non-alcoholic drinks. Hotel Codial has security personnel that ensure
+        the safety of guests and their properties.
+Additional services offered on request by Hotel Codial include contract catering services, a
+        conference hall with a 500 person capacity, a gift shop, laundry/dry cleaning, car hire,
+        ironing and 24 hours room service. For more information on reservation and booking visit
+        https://hotels.ng/hotel/92787-hotel-codial-enugu</string>
+    
+    <string name="hotel_gate_title">The Gate Hotel</string>
+    <string name="hotel_gate_info">At The Gates Luxury Apartment we are proud to serve and create
+        an ambiance that will make you feel calm and relaxed. We provide the best personalized
+        service from professional staff to exceed the need of our esteemed guests. Together with
+        tastefully furnished Apartments we pride ourselves in providing you with excellent service
+        at competitive price.
+The Gates is an American franchise under Zivama Hospitality Ltd. The Gates Apartment is located in
+        the popular Zoo Estate by Ogui Junction, in Enugu North LGA of Enugu State; about 10 minute
+        drive from Enugu International Airport. The Gates is within a serene environment; is the
+        ideal place for lodging, banquets, and executive meetings. The elegant garden bar of the
+        gates can provide natural scenery, beauty and relaxation. The Gates has a conference room
+        that is fully equipped and furnished to taste.
+Breakfast, lunch or dinner is available on request where delicious buffets are served, enjoy exotic
+        cocktails at our bars and feel totally relaxed.
+The Apartment hosts outstanding facilities together with a friendly and professional staff to serve
+        you better.
+- See more at: http://thegates.com.ng/about-us/#sthash.Bp7npOrS.dpuf </string>
+    
+    <string name="hotel_adig_title">Adig Suites</string>
+    <string name="hotel_adig_info">Adig Suites is a top class 4-star hotel situated at 2 Nwafor
+        Orizu Street, Independence Layout, Enugu, Nigeria. It’s a tourist favourite due to its
+        proximity to the Ngwo Pine Forest.
+Adig Suites has rooms with classy and home feel with designs incorporating modern furnishing.
+        Room categories include Superior Room, Executive Room, Junior Suite and Executive Suite.
+        Some rooms have a view overlooking the city. Each room features a spacious bathroom,
+        king-sized beds, cable connected LCD TV sets, refrigerators and air conditioners.
+At the Adig Suites, rooms contain a desk. All rooms are equipped with an electric tea pot, while
+        some rooms also feature a kitchenette with a fridge. All rooms feature a closet.
+A number of facilities are available Adig Suites Hotel. These include free WiFi, a swimming pool,
+        a body spa, a restaurant and a bar. Guests at this hotel will have more time to enjoy their
+        stay at the hotel.
+The hotel offers additional services on request such as 24-hour front desk, shuttle service,
+        Concierge service, Luggage storage, Express check-in/check-out, Cleaning services,
+        Room service, Event Hall, Free Parking Space, Ironing service, Designated Smoking Area,
+        Hypoallergenic Room Available, Convenience Store, Car Rental, Souvenir/Gift Shop, Safe,
+        Elevator, Honeymoon Suite, VIP Room Facilities, Family Rooms, Dry cleaning/Laundry service
+        and business centre.</string>
+    
+    <string name="hotel_oaklands_title">Oaklands Hotel</string>
+    <string name="hotel_oaklands_info">Oakland Hotels and Amusement Park is a top-class hotel
+        located at Tunnel Crossing, Ogui Link Road, Beside Elim Plaza, Enugu, Nigeria. The hotel
+        offers affordable accommodation to guests.
+Guests will enjoy a complimentary breakfast.
+Each room at Oakland Hotels and Amusement Park has a study desk, an air conditioner, free WiFi, and
+        king-sized beds.
+Also available at the hotel are a restaurant and a bar.
+Guests can enjoy different meals at the restaurant on site.
+Services available include Room service, Cleaning services.
+In addition, guests can also enjoy Luggage storage on request.
+    For more information or reservation visit
+        https://hotels.ng/hotel/1391127-oakland-hotels-and-amusement-park</string>
+    
+    //Restaurants
+    <string name="res_dolphin_title">Dolphin Restaurant</string>
+    <string name="res_dolphin_info">Dolphin Restaurant is an African Restaurant and bar in the 
+        heart of the Coal City. They have been serving customers since more than 30 years. 
+        Initially, they started the restaurant services under the name of Madam Volvo. The 
+        Restaurant is a perfect place for lunch, dinner or for having any kind of party. Dolphin
+        principles are to combine the highest quality and authentic African food with excellent 
+        customer service at great value for money, all served in a comfortable ambience.
+        For more information visit http://www.dolphinrestaurantng.com</string>
+    
+    <string name="res_ntachi_title">Ntachi Osa</string>
+    <string name="res_ntachi_info">Passing by the Coal city or looking for a place to enjoy good
+        homely delicacies, relax and blow off some steam?. Then walk into this first grade
+        restaurant that offers the best varieties of quality African and continental meals, drinks
+        and first class services.
+        Ntachi Osa sells delicious African and continental dishes. We are one of Enugu state
+        standard restaurant with good food management, well prepared and neatly served food for
+        your delight.</string>
+
+    <string name="res_kililmanjaro_title">Kilimanjaro</string>
+    <string name="res_kililmanjaro_info">Kilimanjaro is one of Sundry Foods’ restaurant brands,
+        operating in the Quick Service Restaurant (QSR) segment, the brand has established itself
+        as a market leader and one of the fastest growing restaurant brands in the country with
+        currently 27 stores across Nigeria and more to come.
+        Kilimanjaro caters to the unique preference of the general populace in this part of sub-Saharan
+        Africa for their local dishes. Our unique menu consists of select popular contemporary and
+        Nigerian offerings. Items on our menu can also be found on dining tables in other African
+        countries. The Kilimanjaro brand was born out the quest to satisfy both local and
+        continental food cravings of our people. We deliver fresh, hot and mouth-watering meals,
+        pastries, sandwiches and beverages to thousands of customers in the finest environment each
+        day. Our restaurants stand out for their bright colours and lovely ambience inviting you to
+        dine-in or grab-and-go with the best quality meals. In Enugu we located at
+        -Polopark Mall
+        POLOPARK MALL, ABAKAILIKI ROAD, OLD GRA, ENUGU.
+        070054543663.
+        callcenter@sundryfood.com
+        -Enugu Mall
+        Enugu Mall, Independence Layout. Enugu
+        callcenter@sundryfood.com
+</string>
+
+    <string name="res_crunches_title">Crunchies</string>
+    <string name="res_crunches_info">CRUNCHIES FRIED CHICKEN is a first grade quick service
+        restaurant that offers the best varieties of quality fast food products and first class
+        services. We are currently spread across the South-South and South-East Cities of Nigeria,
+        with over thirteen years’ experience. We have carved a niche of excellence in the fast food
+        delivery market with a service per excellence acquired from our daily interaction from our
+        valued Customers.
+        Crunchies Fried Chicken, Enugu is located at 4/5 Rangers Avenue, Enugu, Enugu.</string>
+
+    <string name="res_roots_title">Roots Restaurant</string>
+    <string name="res_roots_info">Roots Restaurant and Cafe is one of the most celebrated African
+        cuisine restaurants in Nigeria, bringing in rich African culture and heritage in an
+        environment that is welcoming, clean and comforting.The Roots restaurant and Cafe is
+        powered by Crunchies Fried Chicken. Over many years of customer service experience and
+        careful study of healthy eating habits, we have opened new doors to a larger variety of
+        menus to provide a list of African diets with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    //Churches
+    <string name="church_catholic_title">The Roman Catholic Church</string>
+    <string name="church_catholic_info">The Roman Catholic Diocese of Enugu is a diocese located in
+        the city of Enugu in the Ecclesiastical province of Onitsha in Nigeria. On November 12,
+        1962, the Diocese of Enugu was erected from ecclesiastical territory gained from the
+        Metropolitan Archdiocese of Onitsha. The Cathedral is Holy Ghost Cathedral in Enugu. There
+        are about 53 Catholic parishes in Enugu, we have
+        -New Haven (St. Mulumba)
+        -Ekulu, G.R.A. (Christ the King)
+        -Golf Estate (Holy Spirit)
+        -Ind. Layout (Blessed Sacrament)
+        -Uwani (Sacred Heart)
+        Visit http://catholicdioceseenugu.org for more information.
+    </string>
+
+    <string name="church_anglican_title">The Anglican Communion</string>
+    <string name="church_anglican_info">Welcome to the diocese of Enugu. Anglican communion is a
+        reputable church in the heart of Enugu well positioned at major places around the city.
+        The Anglican Province of Enugu is one of the 14 ecclesiastical provinces of the Church of
+        Nigeria. The province comprises 12 dioceses. The Archbishop of the Province of Enugu is
+        Emmanuel Chukwuma, who succeeded Amos Madu in 2014. The has it's state province located at
+        Archbishop's Court, No 40 Nawfia Street, Independence Layout, Enugu, Nigeria.</string>
+
+    <string name="church_assemblies_title">Assembles of God</string>
+    <string name="church_assemblies_info">Assemblies of God is widely known as the mother of
+    pentecostalism in Nigeria. The church in Enugu is headed by the Rev. Dr. Emmanuel Ngene as the
+    district superintendent of Enugu. The church has more than 20 branches across the city but the
+    head church is located at No. 66 Chime Avenue New Haven, Enugu. The church has other branches
+    at Abakpa, Trans-ekulu, emene, G.R.A, Independence Layout, Uwani and so on.</string>
+
+    <string name="church_winners_title">Winners Chapel</string>
+    <string name="church_winners_info">Winners Roots Restaurant and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    <string name="church_hodr_title">House On The Rock</string>
+    <string name="church_hodr_info">House On The Rock Roots Restaurant and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    //Malls
+    <string name="mall_polo_title">Polo Mall</string>
+    <string name="mall_polo_info">Polo Roots Restaurant and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    <string name="mall_enugu_title">Enugu Mall</string>
+    <string name="mall_enugu_info">Enugu Mall Roots Restaurant and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    <string name="mall_roban_title">Roban Stores</string>
+    <string name="mall_roban_info">Roban stores Restaurant and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    <string name="mall_eastern_title">Eastern Shop</string>
+    <string name="mall_eastern_info">Eastern Shop Restaurant and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+    <string name="mall_best_title">Best Choice Shopping Mall</string>
+    <string name="mall_best_info">Best Choice Shopping Mall and Cafe is one of the most
+        celebrated African cuisine restaurants in Nigeria, bringing in rich African culture and
+        heritage in an environment that is welcoming, clean and comforting.The Roots restaurant
+        and Cafe ispowered by Crunchies Fried Chicken.
+        Over many years of customer service experience and careful study of healthy eating habits,
+        we have opened new doors to a larger variety of menus to provide a list of African diets
+        with a mix of other foreign influences such as
+        All-day breakfast, Chinese Cuisines, Continental Dishes and Cafe. Using the best natural
+        cooking ingredients, our kitchen produces the most nourishing local and continental dishes
+        for healthy living. In Enugu we are located at Plot M 23c Independence Layout, Opposite
+        Okpara Square, Beside SPAR. For more information call +234 9063930915 or visit
+        https://www.roots.com.ng</string>
+
+</resources>
